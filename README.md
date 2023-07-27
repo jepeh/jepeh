@@ -24,7 +24,9 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
 
 ### Technologies 💻
 
+
 <div>
+   
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5ñ" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -33,17 +35,20 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Java" alt="mySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Java" alt="MongoDB" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Bootstrap" width="40" height="40"/>&nbsp;
+   <br/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Java" alt="threeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="Java" alt="WebGL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Java" alt="Express" width="40" height="40"/>&nbsp;
- <br/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-plain.svg" title="Java" alt="NPM" width="40" height="40"/>&nbsp;
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Java" backgroundColor="white" alt="Express" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Java" alt="NPM" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Java" alt="Firebase" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Java" alt="Github" width="40" height="40" backgroundColor="white"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Java" alt="Express" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Java" alt="jQuery" width="40" height="40"/>&nbsp;
 </div>
 
-### Github Stats 
+
+### Github Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jepeh&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
