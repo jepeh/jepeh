@@ -5,7 +5,7 @@
  # Huyyah! I'm JP,  a FullStack Web Developer 
 **and the coolest developer you'll ever meet!**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FullStack+Web+Developer;Eat+>+Code+>+Coffee+>+Sleep;repeat("life"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FullStack+Web+Developer;Eat+>+Code+>+Coffee+>+Sleep;repeat("life")&center=true)](https://git.io/typing-svg)
 
 </div>
 
