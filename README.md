@@ -35,3 +35,6 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
 
 
 ### Github Stats 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jepeh&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
