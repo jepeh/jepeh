@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/jepeh/jepeh/blob/jepeh.github.io/20230727_205426.png" width="300"/>
+  <img src="https://github.com/jepeh/jepeh/blob/jepeh.github.io/20230727_205426.png" width="300">
 
-
-  Huyyah!
+ # Huyyah! I'm JP,  a FullStack Web Developer 
+**and the coolest developer you'll ever meet!**
 </div>
 
 the coolest developer you'll ever meet. 🧑‍🔬
