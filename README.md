@@ -1,6 +1,12 @@
-# Huyyah! I'm JP,
-the coolest developer you'll ever meet.
 
+<div id="header" align="center">
+  <img src="https://github.com/jepeh/jepeh/blob/jepeh.github.io/20230727_205426.png" width="300"/>
+
+
+  Huyyah!
+</div>
+
+the coolest developer you'll ever meet. 🧑‍🔬
 <p>• Specializes in web design and development. 👨‍💻</p>
 <p>• Mobile based game and logical programming. 🎮</p>
 <p>• Combines science with code and playing physics simulation <br />
