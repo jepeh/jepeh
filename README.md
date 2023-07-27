@@ -4,9 +4,13 @@
 
  # Huyyah! I'm JP,  a FullStack Web Developer 
 **and the coolest developer you'll ever meet!**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FullStack+Web+Developer;Eat+>+Code+>+Coffee+>+Sleep;repeat("life"))](https://git.io/typing-svg)
+
 </div>
 
-the coolest developer you'll ever meet. 🧑‍🔬
+***
+
 <p>• Specializes in web design and development. 👨‍💻</p>
 <p>• Mobile based game and logical programming. 🎮</p>
 <p>• Combines science with code and playing physics simulation <br />
