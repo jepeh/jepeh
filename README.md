@@ -23,15 +23,12 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
 - Email : ganzanjepeh01@gmail.com
 
 ### Technologies 💻
-  ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
-  ![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)&nbsp;
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-1B1A22?style=flat&logo=react)&nbsp;
-  ![NestJs](https://img.shields.io/badge/-NestJs-1B1A22?style=flat&logo=nestjs&logoColor=red)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-1B1A22?style=flat&logo=node.js)&nbsp;
-  ![Express](https://img.shields.io/badge/-Express-1B1A22?style=flat&logo=express)&nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-1B1A22?style=flat&logo=php)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-1B1A22?style=flat&logo=mysql)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
 
 
 ### Github Stats 
