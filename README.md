@@ -23,6 +23,7 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
 - Email : ganzanjepeh01@gmail.com
 
 ### Technologies 💻
+
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5ñ" width="40" height="40"/>&nbsp;
@@ -33,10 +34,14 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Java" alt="MongoDB" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Java" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Java" alt="threeJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/webgl/webgl-original-wordmark.svg" title="Java" alt="WebGL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="Java" alt="WebGL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Java" alt="Express" width="40" height="40"/>&nbsp;
+ <br/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-plain.svg" title="Java" alt="NPM" width="40" height="40"/>&nbsp;
  
- </div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Java" alt="Firebase" width="40" height="40"/>&nbsp;
+
+</div>
 
 ### Github Stats 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jepeh&theme=dark)](https://git.io/streak-stats)
