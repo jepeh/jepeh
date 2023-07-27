@@ -7,23 +7,31 @@ the coolest developer you'll ever meet.
 and utilizes advance tech to make projects stand out. ⚛️</p>
 
 
-## More about me 🧑‍🔬
+## MORE ABOUT ME 🧑‍🔬
+
+***
+
 - &nbsp; continuously scrutinizing how to implement science into code
 - &nbsp; loves applying simulations in my project
 - &nbsp; wants to code next for robots and machines
 
 
-<p>looking for me? tap these links!</p>
+looking for me? tap these links!
+## SOCIALS & CONTACTS 🤳
 
-### Socials 🤳
+***
+
 - [Facebook](fb.com/jepeh)
 - [Instagram](instagram.com/jepeh_____)
 - [Telegram](t.me/jepeh123)
 - Contact : 09916162794
 - Email : ganzanjepeh01@gmail.com
 
-### Technologies 💻
+<br/>
 
+## TECHNOLOGIES 💻
+
+***
 
 <div>
    
@@ -46,8 +54,11 @@ and utilizes advance tech to make projects stand out. ⚛️</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Java" alt="jQuery" width="40" height="40"/>&nbsp;
 </div>
 
+<br/>
 
-### Github Stats
+### GITHUB STATS 🔥
+
+***
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jepeh&theme=dark)](https://git.io/streak-stats)
 
