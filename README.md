@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://github.com/jepeh/jepeh/blob/jepeh.github.io/20230727_205426.png" width="300">
 
- # Huyyah! I'm JP,  a FullStack Web Developer 
+ # Huyyah! I'm JP,  a FullStack Web Developer & Game Dev!
 **and the coolest developer you'll ever meet!**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FullStack+Web+Developer;Eat+>+Code+>+Coffee+>+Sleep;repeat("life")&center=true)](https://git.io/typing-svg)
