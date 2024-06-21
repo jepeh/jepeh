@@ -77,6 +77,7 @@
 ![Python](https://img.shields.io/badge/PYTHON-0E3200?style=for-the-badge&logo=python&logoColor=green)
 ![Csharp](https://img.shields.io/badge/Csharp-857C51?style=for-the-badge&logo=c&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-6CDCE6?style=for-the-badge&logo=php&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-skyblue?style=for-the-badge&logo=godot&logoColor=blue)
 
 
 <br/>
@@ -98,6 +99,7 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-EAAA13?style=for-the-badge&logo=firebase&logoColor=orange)
 
 
 ## Softwares
