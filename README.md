@@ -107,6 +107,10 @@
 <img src="https://www.sculpteo.com/blog/wp-content/uploads/2016/07/Blender_logo_no_text.svg_.png" width="150px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width="150px">
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="150px">
+<img src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" width="150px">
+<img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-adobe-photoshop-cc-clipart-PNG.png" width="150px">
+<img src="" width="150px">
+
 </p>
 
 ## Top Open Source -
