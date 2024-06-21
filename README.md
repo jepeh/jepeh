@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -94,9 +94,11 @@
 <br/>
 
 ## Softwares
+<p align="center">
 <img src="https://www.sculpteo.com/blog/wp-content/uploads/2016/07/Blender_logo_no_text.svg_.png" width="150px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width="150px">
 <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" width="150px">
+</p>
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
