@@ -94,8 +94,7 @@
 <br/>
 
 ## Softwares
-![Git](https://www.sculpteo.com/blog/wp-content/uploads/2016/07/Blender_logo_no_text.svg_.png)
-
+<img src="https://www.sculpteo.com/blog/wp-content/uploads/2016/07/Blender_logo_no_text.svg_.png" width="200px">
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
