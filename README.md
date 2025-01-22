@@ -54,8 +54,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgpb5hhtorbbb1.gif" alt="Coding gif" />
-  
+ 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ganzanjepeh01@gmail.com<br/><br/>
