@@ -107,7 +107,6 @@
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="150px">
 <img src="https://cdn.jim-nielsen.com/macos/1024/figma-2021-05-05.png" width="150px">
 <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" width="150px">
-<img src="https://th.bing.com/th?id=OIF.Ri%2byZA6VKawPFfVrtK8C6A&rs=1&pid=ImgDetMain" width="150px">
 
 </p>
 
