@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Huyyah! JP 
-                <b><a target="_blank" href="https://alsiam.com">Here</a></b>
+                <b><a target="_blank" href="">Here</a></b>
         </samp>
 </h3>
 
@@ -54,7 +54,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgpb5hhtorbbb1.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
