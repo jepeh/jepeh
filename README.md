@@ -11,7 +11,7 @@
 </p>
 
  -->
-<img align="center" src="https://raw.githubusercontent.com/jepeh/AO_labs_assets/refs/heads/jepeh.github.io/assets/gpb5hhtorbbb1.gif" width="1300">
+<img align="center" src="https://i.pinimg.com/originals/3e/39/a2/3e39a20a93545e08e940af57f26a4f06.gif" width="1300">
 <a href="https://komarev.com/ghpvc/?username=jepeh">
   <img align="right" src="https://komarev.com/ghpvc/?username=jepeh&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
