@@ -66,16 +66,7 @@
 <br/>
 <br/>
 
-## Languages
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-0E3200?style=for-the-badge&logo=python&logoColor=green)
-![Csharp](https://img.shields.io/badge/Csharp-857C51?style=for-the-badge&logo=c&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-6CDCE6?style=for-the-badge&logo=php&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-skyblue?style=for-the-badge&logo=godot&logoColor=blue)
+## LANGUAGES
 
 
 <br/>
