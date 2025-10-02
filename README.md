@@ -11,19 +11,16 @@
 </p>
 
  -->
-<img align="center" src="https://i.pinimg.com/originals/3e/39/a2/3e39a20a93545e08e940af57f26a4f06.gif" width="1300">
-<a href="https://komarev.com/ghpvc/?username=jepeh">
-  <img align="right" src="https://komarev.com/ghpvc/?username=jepeh&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 
 
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Huyyah! JP 
-                <b><a target="_blank" href="">Here</a></b>
-        </samp>
-</h3>
+<h2 align="center">
+      <samp>&gt; Huyyah! JP 
+          <b><a target="_blank" href="">Here</a></b>
+      </samp>
+</h2>
 
 
 
