@@ -51,23 +51,16 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
-<p>
- 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ganzanjepeh01@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/jepeh/jepeh/issues)
 
-</p>
 
 <br/>
-<br/>
-<br/>
 
-## LANGUAGES
 
+<h3 align="center">
+        <samp>&gt; Languages
+                <b><a target="_blank" href="">used</a></b>
+        </samp>
+</h3>
 
 <br/>
 
