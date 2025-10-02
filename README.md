@@ -5,14 +5,7 @@
 </p>
 
 <!-- Intro  -->
-<h2 align="center">
-      <samp>&gt; Huyyah! JP 
-          <b><a target="_blank" href="">Here</a></b>
-      </samp>
-</h2>
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Huyyah!+JP+here%2C+Software+Engineer.;What+brings+you+here%3F)](https://git.io/typing-svg)
 
 <p align="center">
  <a href="https://jepeh.com" target="blank">
